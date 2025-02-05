@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./matematica_basica",
+        "./testes/uteis"
+    ]
+}
